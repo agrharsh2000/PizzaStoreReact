@@ -59,3 +59,8 @@ Contributions are welcome! If you have any ideas, suggestions, or bug fixes, ple
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+## Screenshot
+
+![screencapture-localhost-3001-2023-05-24-10_14_33](https://github.com/agrharsh2000/PizzaStoreReact/assets/57790575/e21adea4-a8b9-4f2e-9f90-708c5eda03dc)
+
